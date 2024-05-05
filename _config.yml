@@ -1,14 +1,10 @@
 
-
-# remote_theme: pages-themes/modernist@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
-
 # title: [Abdul Hafiz S Issah]
 title: Your awesome title
+
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: Abdul Hafiz Issah
+  email: issahhafiz@gmail.com
 
 description: [My personal website. Here ar the ways.]
 
