@@ -14,6 +14,10 @@ sass:
 # remote_theme: jekyll/minima
 theme: minima
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 # Generate social links in footer.
 social_links:
 #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
