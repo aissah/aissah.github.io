@@ -6,6 +6,7 @@ author:
 - Hafiz
 meta: "Springfield"
 ---
+
 - Abdul Hafiz Issah, Eileen R. Martin, Impact of Lossy Compression Errors on Passive Seismic Data Analyses, Seismological Research Letters 2024; doi: [https://doi.org/10.1785/0220230314](https://doi.org/10.1785/0220230314)
 - Issah, A. H. S., and Eileen R. Martin 2023, aissah/Issah-SRL-compression-2023: Initial release; doi: [https://zenodo.org/doi/10.5281/zenodo.8284351](https://zenodo.org/doi/10.5281/zenodo.8284351).
 - Abdul Hafiz Issah, Eileen R. Martin, CODA, 2023 - Analyses of Lossy Compression of Seismic data using ZFP floating point compression, Conference on Data Analysis, Santa Fe, March 2023
