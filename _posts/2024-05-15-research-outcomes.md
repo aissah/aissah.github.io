@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Research Outcomes"
+title: "Research and Outcomes"
 categories: junk
 author:
 - Hafiz
