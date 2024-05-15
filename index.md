@@ -7,9 +7,8 @@
 #
 layout: home
 ---
-Hello and welcome! I'm Hafiz, a passionate graduate student dedicated to pushing the boundaries of seismic data compression and processing efficiency. Here at my personal website, I'm thrilled to share insights, updates, and resources related to my ongoing research endeavors.
 
-I am currently pursuing my graduate studies in Computational and Applied Mathematics at Colorado School of Mines. With a background in [Your Field/Area of Expertise], I am deeply fascinated by the intersection of data compression, numerical analysis, and computational geophysics. My academic journey is driven by a relentless curiosity to unravel the complexities of seismic data and devise innovative solutions to enhance processing workflows.
+I am currently pursuing my graduate studies in Computational and Applied Mathematics at Colorado School of Mines. With a background in global seismology and mathematics, I am deeply fascinated by the intersection of data compression, numerical analysis, and computational geophysics. My academic journey is driven by a relentless curiosity to unravel the complexities of seismic data and devise innovative solutions to enhance processing workflows.
 
 <!-- {% highlight ruby %}
 def print_hi(name)
