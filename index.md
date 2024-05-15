@@ -7,23 +7,15 @@
 #
 layout: home
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hello and welcome! I'm Hafiz, a passionate graduate student dedicated to pushing the boundaries of seismic data compression and processing efficiency. Here at my personal website, I'm thrilled to share insights, updates, and resources related to my ongoing research endeavors.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+I am currently pursuing my graduate studies in Computational and Applied Mathematics at Colorado School of Mines. With a background in [Your Field/Area of Expertise], I am deeply fascinated by the intersection of data compression, numerical analysis, and computational geophysics. My academic journey is driven by a relentless curiosity to unravel the complexities of seismic data and devise innovative solutions to enhance processing workflows.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
+<!-- {% highlight ruby %}
 def print_hi(name)
   puts "Hi, #{name}"
 end
 print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+{% endhighlight %} -->
 
