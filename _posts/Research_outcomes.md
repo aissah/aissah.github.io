@@ -13,5 +13,4 @@ meta: "Springfield"
 - Abdul Hafiz Issah, Eileen R. Martin,  - Wavelet Compression and Error Analyses on Processing in Wavelet Domain, SAGE/GAGE Community Science Workshop, Pittsburgh, June 2022
 - Abdul Hafiz Issah, Harold Gurrola - Investigation of The Upper Mantle Under Hawaii Using Teleseismic PP And SS Precursor Functions, American Geophysical Union Fall Meeting, New Orleans, December 2021
 - Manuel M Mendoza, Eileen R. Martin, Abdul Hafiz Issah, Ge Jin, Veronica A. Gaete Elgueta, Brad Lipovsky, Paul Bodin, Stephen D. Malone, Kenneth Craeger, Anne F. Sheehan - Exploring the potential for Joint Monitoring of Tectonic Tremor Using Dark Fibre and Seismometers, Seismological Society of America Annual Meeting, Anchorage, Alaska, May 2024
-
 <!-- - Author(s), Title of Paper, Conference Name, Location, Date -->
