@@ -1,7 +1,7 @@
-title: My awesome title
+title: Abdul Hafiz S Issah
 
 author:
-  name: Abdul Hafiz Issah
+  name: Abdul Hafiz S Issah
   email: issahhafiz@gmail.com
 
 description: [My personal website. Here are the ways.]
@@ -19,12 +19,12 @@ plugins:
 # Generate social links in footer.
 minima:
   skin: classic
-  #social_links:
+  social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-  #  - { platform: github,         user_url: "https://github.com/aissah"}
+   - { platform: github,         user_url: "https://github.com/aissah"}
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?hl=en&user=V2WpmiwAAAAJ&view_op=list_works&gmla=ABOlHiwUsWrG3MN0Afo1KmY8WByNeQ5Qqdi80yyFejRvW3ToBCubHfg_RKd85ix3L8sx7eKBUF3sNcMO2WiZDkjn"}
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
   #  - { platform: keybase,        user_url: "https://keybase.io/jekyll" }
