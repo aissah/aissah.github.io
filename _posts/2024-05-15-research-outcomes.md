@@ -10,9 +10,9 @@ meta: "Springfield"
 
 My current research primarily revolves around two intertwined themes:
 
-1. Error Analysis of Compression Effects: I'm conducting comprehensive numerical analyses to quantify the impact of compression errors on seismic data processing results. Through meticulous simulations and experimentation, I seek to elucidate the trade-offs between compression efficiency and processing accuracy, thereby guiding practitioners in making informed decisions.
+1. **Error Analysis of Compression Effects:** I'm conducting comprehensive numerical analyses to quantify the impact of compression errors on seismic data processing results. Through meticulous simulations and experimentation, I seek to elucidate the trade-offs between compression efficiency and processing accuracy, thereby guiding practitioners in making informed decisions.
 
-2. Compression-Aware Seismic Data Processing: I'm exploring novel algorithms and methodologies that leverage the compression state of seismic data to optimize processing efficiency and computational resource utilization. By delving into compressed-domain processing techniques, I aim to unlock transformative gains in speed, scalability, and memory efficiency.
+2. **Compression-Aware Seismic Data Processing:** I'm exploring novel algorithms and methodologies that leverage the compression state of seismic data to optimize processing efficiency and computational resource utilization. By delving into compressed-domain processing techniques, I aim to unlock transformative gains in speed, scalability, and memory efficiency.
 
 ## Research Outcomes
 
