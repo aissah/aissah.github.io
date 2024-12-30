@@ -8,9 +8,9 @@
 layout: home
 ---
 
-I am currently pursuing my PhD in Computational and Applied Mathematics at Colorado School of Mines. With a background in global seismology and mathematics, I am deeply fascinated by the intersection of data compression, numerical analysis, and computational geophysics. My academic journey is driven a keen interest in leveraging cutting-edge technologies to manage and efficiently extract meaningful insights from seismic data. My hobbies include playing basketball, chess, gardening and reading sci-fi novels.
+I am currently pursuing my PhD in Computational and Applied Mathematics at Colorado School of Mines. With a background in global seismology and mathematics, I am deeply fascinated by the intersection of data compression, numerical analysis, and computational geophysics. My academic journey is driven by a keen interest in leveraging cutting-edge technologies to manage and efficiently extract meaningful insights from seismic data. My hobbies include playing basketball, chess, gardening, and reading sci-fi novels.
 
-Some grants that have funded my PhD work so far include: [mine seismicity](https://caserm.mines.edu/research-projects/), [permafrost thaw monitoring and remote large-scale seismic data mananagement](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2034366&HistoricalAwards=false), [scalable algorithms for passive seismic data](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2046387&HistoricalAwards=false), and the [Distributed Acoustic Sensing Data Analysis Ecosystem](https://nsf.gov/awardsearch/showAward?AWD_ID=2148614)
+Some grants that have funded my PhD work so far include:  [scalable algorithms for passive seismic data](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2046387&HistoricalAwards=false), the [Distributed Acoustic Sensing Data Analysis Ecosystem](https://nsf.gov/awardsearch/showAward?AWD_ID=2148614), [mine seismicity](https://caserm.mines.edu/research-projects/), and [permafrost thaw monitoring and remote large-scale seismic data mananagement](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2034366&HistoricalAwards=false)
 
 <!-- {% highlight ruby %}
 def print_hi(name)
@@ -21,4 +21,4 @@ print_hi('Tom')
 {% endhighlight %} -->
 
 **Get in Touch:** 
-I'm always eager to connect with fellow researchers, collaborators, and enthusiasts passionate about numerical analysis, uncertainty quantification, and computational geoscience. Whether you have a question, a collaboration proposal, or just want to chat about compressing seismic data, feel free to reach out! An immediate goal that may be a source of collaboration is evaluating/interpreting the errors introduced by machine learning methods applied in the compression of siesmic data. **If you have a pre-trained module I can use, I would be happy to collaborate.** 
+I'm always eager to connect with fellow researchers, collaborators, and enthusiasts passionate about numerical analysis, uncertainty quantification, and computational geoscience. Feel free to reach out if you have a question, a collaboration proposal, or just want to chat about compressing seismic data! An immediate goal that may be a source of collaboration is evaluating/interpreting the errors introduced by machine learning methods applied in the compression of seismic data. **I would be happy to collaborate if you have a pre-trained module I can use.** 
